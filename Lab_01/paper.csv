@@ -1,0 +1,73 @@
+,Title,Authors,Year
+0,On the advantages of deploying a large scale distributed honeypot platform,"F Pouget, M Dacier, VH Pham",2005
+1,A survey on opportunities and challenges of Blockchain technology adoption for revolutionary innovation,"PT Duy, DTT Hien, DH Hien, VH Pham",2018
+2,Honeypot trace forensics: The observation viewpoint matters,"VH Pham, M Dacier",2011
+3,The leurre. com project: collecting internet threats information using a worldwide distributed honeynet,"C Leita, VH Pham, O Thonnard, E Ramirez-Silva, F Pouget, E Kirda, ...",2008
+4,The WOMBAT Attack Attribution Method: Some Results.,"M Dacier, VH Pham, O Thonnard",2009
+5,Collection and analysis of attack data based on honeypots deployed on the Internet,"E Alata, M Dacier, Y Deswarte, M Kaaâniche, K Kortchinsky, V Nicomette, ...",2006
+6,Understanding threats: a prerequisite to enhance survivability of computing systems,"F Pouget, M Dacier, VH Pham",2008
+7,Understanding threats: a prerequisite to enhance survivability of computing systems,"F Pouget, M Dacier, VH Pham",2008
+8,Honeynets: Foundations for the development of early warning information systems,"F Pouget, M Dacier, VH Pham, H Debar",2005
+9,Sdnlog-foren: Ensuring the integrity and tamper resistance of log files for sdn forensics using blockchain,"PT Duy, H Do Hoang, NB Khanh, VH Pham",2019
+10,The quest for multi-headed worms,"VH Pham, M Dacier, G Urvoy-Keller, T En-Najjary",2008
+11,Parallel two-phase K-means,"CD Nguyen, DT Nguyen, VH Pham",2013
+12,A role-based statistical mechanism for DDoS attack detection in SDN,"PT Duy, VH Pham",2018
+13,Extracting inter-arrival time based behaviour from honeypot traffic using cliques,"S Almotairi, A Clark, M Dacier, C Leita, G Mohay, VH Pham, O Thonnard, ...",2007
+14,DIGFuPAS: Deceive IDS with GAN and Function-Preserving on Adversarial Samples in SDN-enabled networks,"PT Duy, NH Khoa, AGT Nguyen, VH Pham",2021
+15,A security-enhanced monitoring system for northbound interface in SDN using blockchain,"HD Hoang, PT Duy, VH Pham",2019
+16,Detect malware in android firmware based on distributed network environment,"NT Cam, T Nguyen, K Nguyen, T Nguyen, VH Pham",2019
+17,Enhancing the accuracy of static analysis for detecting sensitive data leakage in Android by using dynamic analysis,"LH Tuan, NT Cam, VH Pham",2019
+18,Forensic analysis of TikTok application to seek digital artifacts on Android smartphone,"NH Khoa, PT Duy, H Do Hoang, VH Pham",2020
+19,Android security analysis based on inter-application relationships,"NT Cam, P Van Hau, T Nguyen",2016
+20,Detecting sensitive data leakage via inter-applications on Android using a hybrid analysis technique,"NT Cam, VH Pham, T Nguyen",2019
+21,Assessing cybercrime through the eyes of the WOMBAT,"M Dacier, C Leita, O Thonnard, H Van Pham, E Kirda",2009
+22,CADHo: Collection and Analysis of Data from Honeypots,"E Alata, M Dacier, Y Deswarte, M Kaaniche, K Kortchinsky, V Nicomette, ...",2005
+23,Sensitive data leakage detection in pre-installed applications of custom android firmware,"NT Cam, VH Pham, T Nguyen",2017
+24,Strengthening IDS against evasion attacks with GAN-based adversarial samples in SDN-enabled network,"CPX Qui, DH Quang, PT Duy, VH Pham",2021
+25,"A survey on Blockchain-based applications for reforming data protection, privacy and security","PT Duy, DTT Hien, VH Pham",2020
+26,Toward a trust-based authentication framework of Northbound interface in Software Defined Networking,"PT Duy, DTT Hien, N Van Vuong, NNH Au, VH Pham",2019
+27,Designing a learning model for mobile vision to detect diabetic retinopathy based on the improvement of MobileNetV2,"H Nguyen, VP Tran, VT Pham, HD Nguyen",2022
+28,Federated learning-based intrusion detection in the context of IIoT networks: poisoning attack and defense,"NC Vy, NH Quyen, PT Duy, VH Pham",2021
+29,A Better Set of Object-Oriented Design Metrics for Within-Project Defect Prediction,"V Pham, C Lokan, K Kasmarik",2020
+30,A software defined networking approach for guaranteeing delay in Wi-Fi networks,"DTT Hien, TD Ngo, DD Le, H Sekiya, VH Pham, K Nguyen",2019
+31,Targeting bufferbloat in wi-fi networks: An emulator-based approach,"TD Ngo, DD Le, H Sekiya, VH Pham, K Nguyen",2019
+32,edsdroid: A hybrid approach for information leak detection in android,"HT Ly, TC Nguyen, VH Pham",2017
+33,Federated learning-based intrusion detection in SDN-enabled IIoT networks,"PT Duy, T Van Hung, NH Ha, H Do Hoang, VH Pham",2021
+34,Detect Android malware by using deep learning: experiment and evaluation,"N Hoang Khoa, N Tan Cam, VH Pham, AGT Nguyen",2021
+35,A Secure and Privacy Preserving Federated Learning Approach for IoT Intrusion Detection System,"PT Duy, HN Hao, HM Chu, VH Pham",2021
+36,Aloba: A mechanism of adaptive load balancing and failure recovery in distributed SDN controllers,"PT Duy, HP Qui, VH Pham",2019
+37,Pwdgan: Generating adversarial malicious url examples for deceiving black-box phishing website detector using gans,"TN Bac, PT Duy, VH Pham",2021
+38,eddLeak: Enhancing precision of detecting inter-app data leakage in Android applications,"PT Duy, VH Pham, NT Cam",2017
+39,Leurré. com: retour d'expérience sur plusieurs mois d'utilisation d'un pot de miel distribué mondialement,"E Alata, M Dacier, Y Deswarte, M Kaâniche, K Kortchinsky, V Nicomette, ...",2005
+40,B-DAC: A decentralized access control framework on Northbound interface for securing SDN using blockchain,"PT Duy, H Do Hoang, AGT Nguyen, VH Pham",2022
+41,An Approach for Service Function Chain Orchestration in Combination with SDN-based Network,"H Do Hoang, PT Duy, NH Khoa, VH Pham",2021
+42,A Blockchain-based Secured and Privacy-Preserved Personal Healthcare Record Exchange System,"H Do Hoang, TC Nhut, PDT Quyen, PT Duy, VH Pham",2021
+43,Vietnamese facebook posts classification using fine-tuning bert,"DT Tuan, D Van Thin, VH Pham, NLT Nguyen",2020
+44,Mitigating flow table overloading attack with controller-based flow filtering strategy in SDN,"PT Duy, LD An, VH Pham",2019
+45,Un WOMBAT pour évaluer la cybercriminalité,"C Leita, VH Pham, O Thonnard, M Dacier, E Kirda",2009
+46,Leveraging Deep Learning Image Classifiers for Visual Similarity-based Phishing Website Detection,"NB Trinh, TD Phan, VH Pham",2022
+47,A Privacy-Preserving Approach For Building Learning Models in Smart Healthcare using Blockchain and Federated Learning,"L Ngan Van, A Hoang Tuan, D Phan The, TK Vo, VH Pham",2022
+48,A Method of Mutating Windows Malwares using Reinforcement Learning with Functionality Preservation,"H Do Thi Thu, TD Phan, H Le Anh, L Nguyen Duy, K Nghi Hoang, ...",2022
+49,Leveraging Reinforcement Learning and Generative Adversarial Networks to Craft Mutants of Windows Malware against Black-box Malware Detectors,"TD Phan, T Duc Luong, N Hoang Quoc An, Q Nguyen Huu, HK Nghi, ...",2022
+50,Federated Intrusion Detection on Non-IID Data for IIoT Networks Using Generative Adversarial Networks and Reinforcement Learning,"NH Quyen, PT Duy, NC Vy, DTT Hien, VH Pham",2022
+51,uitXkernel: Android Kernel Forensic for Security Analysis Purposes,"NT Cam, TU Vu, NH Khoa, VH Pham",2022
+52,A case study for evaluating learners' behaviors from online cybersecurity training platform on digital forensics subject,"PT Duy, H Do Hoang, NH Khoa, VH Pham",2022
+53,Fool Your Enemies: Enable Cyber Deception and Moving Target Defense for Intrusion Detection in SDN,"PT Duy, H Do Hoang, NH Khoa, VH Pham",2022
+54,Federated Learning-Based Cyber Threat Hunting for APT Attack Detection in SDN-Enabled Networks,"HT Thi, NDH Son, PT Duv, VH Pham",2022
+55,Gather Android Application Information on Google Play for Machine Learning Based Security Analysis,"NT Cam, ANTY Nhi, NV Thinh, NH Khoa, VH Pham",2022
+56,Detect repackaged Android applications by using representative graphs,"NT Cam, NH Khoa, TT An, NP Bach, VH Pham",2021
+57,FedChain: A Collaborative Framework for Building Artificial Intelligence Models using Blockchain and Federated Learning,"TD Luong, VM Tien, HT Anh, N Van Luyen, NC Vy, PT Duy, VH Pham",2021
+58,Forensics analysis of FacePlay application to seek digital artifacts on data ownership and privacy,"DM Trung, NH Khoa, PT Duy, NT Cam, VH Pham",2021
+59,Empirical Study on Reconnaissance Attacks in SDN-aware Network for Evaluating Cyber Deception,"H Do Hoang, VH Pham",2021
+60,A Deep Transfer Learning Approach for Flow-Based Intrusion Detection in SDN-Enabled Network,"NH Khoa, H Hiep, NB Tuan, HD Hoang, DTT Hien, VH Pham",2021
+61,"A survey on Blockchain-based applications for reforming data protection, privacy and security","DT Thu Hien, VH Pham",2020
+62,A GFP-based sensor to detect transiently expressed proteins,M Eason,2020
+63,An Investigation of Wi-Fi Bufferbloat Using a Wireless Emulator,"TTH Do, TD Ngo, DD Le, H Sekiya, VH Pham, K Nguyen",2019
+64,Proposing Automatic Dataset Generation System to Support Android Sensitive Data Leakage Detection Systems,"NT Cam, NH Khoa, LD Thinh, VH Pham, T Nguyen",2019
+65,Detect Sensitive Data Leakage via Inter-application on Android by Using Static Analysis and Dynamic Analysis,"NT Cam, VH Pham, T Nguyen",2017
+66,Bacterial diversity in root endosphere of wetland rice in Vietnam,"V Pham, H Nguyen, M Tran, D Nguyen, H Rediers, J Vanderleyden, ...",2016
+67,Integration of re-active ad-hoc routing daemon into Quagga routing suite for wireless ad-hoc routers,"Q Le-Trung, VH Pham",2014
+68,HONEYNETS: FOUNDATIONS FOR THE DEVELOPMENT OF EARLY WARNING,"F Pouget, M Dacier, VH Pham",2005
+69,Magnetic Nano Particles for Diagnostics,"KC Nguyen, VH Pham, ST Do, DT Tieu",
+70,Magnetic Nano Particles For Automated PCR Diagnostics,"KC Nguyen, ST Do, DT Tieu, VH Pham",
+71,Early Warning System based on a distributed honeypot network,"VH Pham, F Pouget, M Dacier",
